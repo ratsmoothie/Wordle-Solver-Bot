@@ -1,0 +1,1 @@
+outline of an AI that will assist the user in solving wordles.
